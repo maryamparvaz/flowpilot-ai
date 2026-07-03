@@ -6,7 +6,7 @@
 
 ## 🚀 Live demo
 
-- **Demo:** (https://flowpilot-ai-jade.vercel.app/)_
+- **Demo:** [(https://flowpilot-ai-jade.vercel.app/)]_
 - **Repo:** _add your repo URL here_
 
 ## 📸 Screenshots
