@@ -7,14 +7,6 @@
 ## 🚀 Live demo
  [Demo Project](https://flowpilot-ai-jade.vercel.app/)
 
-## 📸 Screenshots
-
-| Page | Preview |
-| --- | --- |
-| Home | `./screenshots/home.png` |
-| Features | `./screenshots/features.png` |
-| Pricing | `./screenshots/pricing.png` |
-| Contact | `./screenshots/contact.png` |
 
 ## ✨ Main features
 
