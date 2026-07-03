@@ -5,9 +5,7 @@
 ![FlowPilot AI](./screenshots/hero.png)
 
 ## 🚀 Live demo
-
-- **Demo:** [(https://flowpilot-ai-jade.vercel.app/)]_
-- **Repo:** _add your repo URL here_
+ [Demo Project](https://zarin-pal-dwmo.vercel.app/](https://flowpilot-ai-jade.vercel.app/)
 
 ## 📸 Screenshots
 
