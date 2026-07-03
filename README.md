@@ -2,8 +2,6 @@
 
 > Automate the busywork behind every growing team. A portfolio-grade SaaS marketing site for a fictional workflow product — built with the same care a real product team would bring to a launch site.
 
-![FlowPilot AI](./screenshots/hero.png)
-
 ## 🚀 Live demo
  [Demo Project](https://flowpilot-ai-jade.vercel.app/)
 
